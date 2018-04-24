@@ -7,4 +7,3 @@ if (name = "Su"){
 } else {
     console.log("naw")
   }
-}
