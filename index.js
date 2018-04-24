@@ -4,7 +4,7 @@ var height = "74"
 if (name = "Su"){
   console.log("correct")
   
-  else(){
+} else {
     console.log("naw")
   }
 }
